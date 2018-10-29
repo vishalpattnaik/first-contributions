@@ -27,6 +27,7 @@
 - [Natalie Fleming](https://github.com/nataliefleming)
 - [Ladson G](https://github.com/ladsong)
 - [Dhyey B](https://github.com/dhyeyb04)
+- [Vishal Pattnaik](https://github.com/vishalpattnaik)
 - [owais](https://github.com/owais34)
 - [Jarett Chaiken-VS](https://github.com/jdchaiken)
 - [Ihoey](https://github.com/ihoey)
